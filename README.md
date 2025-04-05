@@ -1,4 +1,3 @@
-# Xose-Portfolio-2025
 # 👨‍💻 Xose Amevinya – IT & Cloud Portfolio
 
 Hi there! I'm Xose Amevinya, a passionate and versatile tech professional with over 2.5 years of hands-on experience in systems management, infrastructure, and team leadership. I led the IT & Software Management for The Sanctuary Schools, overseeing IT operations across 5 campuses. I’m currently enrolled in the AWS re/Start program, growing my skills in cloud computing, DevOps, and automation.
@@ -41,9 +40,9 @@ Hi there! I'm Xose Amevinya, a passionate and versatile tech professional with o
 
 ## 🌐 Let’s Connect
 
-- 🔗http://www.linkedin.com/in/xose-amevinya-13822b54
+- 🔗 http://www.linkedin.com/in/xose-amevinya-13822b54
 - 📧 xosenewton@gmail.com
-- 🧑‍💻 GitHub](https://github.com/xoseamevinya
+- 🧑‍💻 https://github.com/xoseamevinya
 
 
 
